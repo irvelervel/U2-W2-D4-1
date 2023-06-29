@@ -1,0 +1,7 @@
+// lo scopo di questo partial è contenere gli stili dedicati alla sezione footer della pagina
+
+footer {
+  display: flex;
+  flex-direction: column;
+  color: $primary-color;
+}
